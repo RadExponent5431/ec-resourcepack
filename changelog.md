@@ -13,6 +13,12 @@
   - Bugfixes for Gokart and Sylphora (Gameplay Theathre)
 
 
+
+# v1.0.1 
+- Bugfixes:
+  - Navigator malfunction + misspelling
+  - 
+
 ## v1.0 - Release: 7.11.2025
 - Opened with 5 areas:
   - Comburgh - The Steampunk Adventure
@@ -25,4 +31,9 @@
   - Mainstreet Jump'N'Run
   - Hide'N'Seek
   - Sylphora (Gameplay Theathre)
-- Many Different Shops
+- Watershow
+- Many Different Shops & Rides:
+  - Curse - Comburgh
+  - Windor - Rivendia
+  - Ragnarok - Nordheim
+  - Devil Train - Mistery
