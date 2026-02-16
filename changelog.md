@@ -8,6 +8,7 @@
 - Website Update:
   - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
   - Added [Single Attraction Viewer](https://expeditioncraft.de/en/attraction.html?atr=Curse)
+  - Some Perfomance Upgrades - preloading, caching, compressing, ...
 
 # v1.1 - Release: 7.02.2026
 - Version Support for 1.21.4 - 1.21.11
@@ -42,4 +43,4 @@
   - Windor - Rivendia
   - Ragnarok - Nordheim
   - Devil Train - Mistery
-- Opened our [ExpeditionCraft](https://expeditioncraft.de)
+- Opened our [ExpeditionCraft Website](https://expeditioncraft.de)
