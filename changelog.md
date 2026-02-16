@@ -4,6 +4,11 @@
 - new Minigames:
   - _still a secret_
 
+## v1.1.1
+- Website Update:
+  - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
+  - Added [Single Attraction Viewer](https://expeditioncraft.de/en/attraction.html?atr=Curse)
+
 # v1.1 - Release: 7.02.2026
 - Version Support for 1.21.4 - 1.21.11
 - Hotel Exploria opened its Gates
