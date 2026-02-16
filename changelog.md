@@ -7,7 +7,7 @@
 ## v1.1.1
 - Website Update:
   - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
-  - Added [Single Attraction Viewer](https://expeditioncraft.de/en/attraction.html?atr=Curse)
+  - Added [Single Attraction Viewer](https://expeditioncraft.de/en/sites/attraction.html?atr=Curse)
   - Some Perfomance Upgrades - preloading, caching, compressing, ...
 
 # v1.1 - Release: 7.02.2026
