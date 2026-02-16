@@ -9,6 +9,8 @@
   - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
   - Added [Single Attraction Viewer](https://expeditioncraft.de/en/sites/attraction.html?atr=Curse)
   - Some Perfomance Upgrades - preloading, caching, compressing, ...
+- Hotel Multiple Day Passes
+- 
 
 # v1.1 - Release: 7.02.2026
 - Version Support for 1.21.4 - 1.21.11
