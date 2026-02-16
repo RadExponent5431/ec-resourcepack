@@ -33,7 +33,8 @@
   - Sylphora (Gameplay Theathre)
 - Watershow
 - Many Different Shops & Rides:
-  - Curse - Comburgh [ExpeditionCraft](https://expeditioncraft.de)
+  - Curse - Comburgh 
   - Windor - Rivendia
   - Ragnarok - Nordheim
   - Devil Train - Mistery
+- Opened our [ExpeditionCraft](https://expeditioncraft.de)
