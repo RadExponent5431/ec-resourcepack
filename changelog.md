@@ -4,6 +4,10 @@
 - new Minigames:
   - _still a secret_
 
+## v1.1.2 (pre)
+- an interactive Map on our Website
+- added a Party System
+
 ## v1.1.1
 - Website Update:
   - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
