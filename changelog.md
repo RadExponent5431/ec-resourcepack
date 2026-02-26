@@ -12,6 +12,7 @@
 - Website Update:
   - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
   - Added [Single Attraction Viewer](https://expeditioncraft.de/en/sites/attraction.html?atr=Curse)
+  - Reworked the Teams Section on the Main Page
   - Some Perfomance Upgrades - preloading, caching, compressing, ...
 - Hotel Multiple Day Passes
 
