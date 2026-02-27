@@ -10,7 +10,7 @@
 
 ## v1.1.1
 - Website Update:
-  - Added [Changelog](https://expeditioncraft.de/en/changelog.html)
+  - Added [Changelog](https://expeditioncraft.de/en/sites/changelog.html)
   - Added [Single Attraction Viewer](https://expeditioncraft.de/en/sites/attraction.html?atr=Curse)
   - Reworked the Teams Section on the Main Page
   - Some Perfomance Upgrades - preloading, caching, compressing, ...
