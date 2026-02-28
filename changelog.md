@@ -1,10 +1,13 @@
+# v1.3 (PRE)
+- new Area: Lost Ruins - The Overgrown Jungle
+
 # v1.2 (PRE)
 - new Casino
 - new Area: Oasis - The Desert City
 - new Minigames:
   - _still a secret_
 
-## v1.1.2 (pre)
+## v1.1.2 (pre) - Release; xx.xx.2026
 - an interactive Map on our Website
 - added a Party System
 - added TNT Run Powerups
@@ -13,7 +16,7 @@
 - Website Update:
   - Added [Changelog](https://expeditioncraft.de/en/sites/changelog.html)
   - Added [Single Attraction Viewer](https://expeditioncraft.de/en/sites/attraction.html?atr=Curse)
-  - Reworked the Teams Section on the Main Page
+  - Reworked the [Teams Section on the Main Page](https://expeditioncraft.de/en/index.html#team)
   - Some Perfomance Upgrades - preloading, caching, compressing, ...
 - Hotel Multiple Day Passes
 
@@ -22,8 +25,8 @@
 - Hotel Exploria opened its Gates
 - new Minigames:
   - Lasertag
-  - TNT-Run
-  - Bugfixes for Gokart and Sylphora (Gameplay Theathre)
+  - TNT-Run 
+  - Bugfixes for Gokart and [Sylphora (Gameplay Theathre)](https://expeditioncraft.de/en/sites/attraction.html?atr=Sylphora)
 - Maintenance:
   - Trevithick Castle - Drop Tower
 
@@ -50,4 +53,4 @@
   - Windor - Rivendia
   - Ragnarok - Nordheim
   - Devil Train - Mistery
-- Opened our [ExpeditionCraft Website](https://expeditioncraft.de)
+- Opened our [ExpeditionCraft Website](https://expeditioncraft.de/en/)
