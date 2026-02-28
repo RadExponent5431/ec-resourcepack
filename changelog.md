@@ -11,6 +11,7 @@
 - an interactive Map on our Website
 - added a Party System
 - added TNT Run Powerups
+- added ToDo List for Team Members
 
 ## v1.1.1
 - Website Update:
