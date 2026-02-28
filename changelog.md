@@ -7,6 +7,7 @@
 ## v1.1.2 (pre)
 - an interactive Map on our Website
 - added a Party System
+- added TNT Run Powerups
 
 ## v1.1.1
 - Website Update:
