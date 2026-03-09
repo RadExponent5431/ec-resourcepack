@@ -6,6 +6,7 @@
 - new Area: Oasis - The Desert City
 - new Minigames:
   - _still a secret_
+- new Hide'N'Seek Map
 
 ## v1.1.2 (pre) - Release; xx.xx.2026
 - an interactive Map on our Website
